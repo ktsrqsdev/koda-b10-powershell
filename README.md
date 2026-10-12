@@ -1,13 +1,17 @@
 # Minitask 1
-
 Tugas pertama membuat file mp3 dengan menggunakan PowerShell
 
+> Membuat directory **Music**
 ```sh
 mkdir Music
 ```
+
+> Masuk Ke directory **Music**
 ```sh
 cd Music
 ```
+
+> tambahkan **item** pada directory **Music**
 ```sh
 ni "Kata Mereka Ini Berlebihan - Bernadya.mp3"
 ni "Kini mereka tahu - Bernadya.mp3"
